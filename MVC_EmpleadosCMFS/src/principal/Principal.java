@@ -30,8 +30,8 @@ public class Principal {
         /**
          * Hace visible la ventana.
          */
-        //v.setVisible(true);
-        v.setVisible(false);
+        v.setVisible(true);
+        //v.setVisible(false);
         /**
          * Coloca la ventana sin referenciar a nada.
          */
